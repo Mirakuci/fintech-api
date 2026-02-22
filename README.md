@@ -13,3 +13,4 @@ Dokumentace: http://localhost:8400/docs
 Příklady:
 - `/api/hypo/monthly?principal=3000000&annual_rate=5.2&years=30`
 - `/api/rates`
+# fintech-api
